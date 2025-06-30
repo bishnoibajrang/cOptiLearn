@@ -1,0 +1,4 @@
+echo *.exe > .gitignore
+echo *.o >> .gitignore
+echo run_* >> .gitignore
+echo nul >> .gitignore
