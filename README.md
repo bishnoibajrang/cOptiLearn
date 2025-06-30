@@ -125,3 +125,7 @@ PRs, issues, and forks are welcome. Whether it's adding a new optimizer or impro
 ## 🏷️ SEO Tags
 
 *C Gradient Descent · Momentum in C · Optimization Algorithms in C · Machine Learning in C · Adam Optimizer in C · Logistic Regression Pure C · RMSProp Implementation C · Armijo Line Search C · Iris Dataset C Project · ML from Scratch C*
+=======
+# cOptiLearn
+Optimization Algorithms Implemented from Scratch in C
+>>>>>>> e4870c443bbdc6bbfeb8d6f7224fd60475bb8367
